@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "name": "workspaceA",
+            "path": "../workspaceA"
+        },
+        {
+            "name": "workspaceB",
+            "path": "../workspaceB"
+        },
+        {
+            "name": "workspaceC",
+            "path": "../workspaceC"
+        }
+    ],
+    "settings": {
+        "biome.enabled": true,
+        "biome.requireConfigFile": true,
+        "biome.lsp.trace.server": "verbose",
+        "[javascript]": {
+            "editor.defaultFormatter": "biomejs.biome"
+        },
+    },
+    "extensions": {
+        "recommendations": [
+            "biomejs.biome",
+        ]
+    }
+}

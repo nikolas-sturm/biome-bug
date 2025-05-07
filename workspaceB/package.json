@@ -1,0 +1,14 @@
+{
+    "name": "workspaceb",
+    "version": "1.0.0",
+    "main": "test.js",
+    "scripts": {
+        "test": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@biomejs/biome": "^1.9.4"
+    }
+}
